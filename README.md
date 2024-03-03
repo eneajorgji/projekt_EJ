@@ -12,5 +12,7 @@ Podstawowe funkcjonalności oraz główne klas w programie
 
 Co najmniej diagram klas
 
-## 3. 
+## 3. Ostateczna wersja
+
+
 
