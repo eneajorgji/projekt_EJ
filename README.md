@@ -8,7 +8,9 @@ Opracowanie bazy danych (własny silnik) służącej do przechowywania informacj
 
 Podstawowe funkcjonalności oraz główne klas w programie
 
-## 2.
+## 2. Drugi etap
+
+Co najmniej diagram klas
 
 ## 3. 
 
