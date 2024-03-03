@@ -14,5 +14,5 @@ Co najmniej diagram klas
 
 ## 3. Ostateczna wersja
 
-
+Popraw punkt 1 oraz punkt 2 jeśli zmienił. 
 
